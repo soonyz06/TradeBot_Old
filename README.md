@@ -1,5 +1,3 @@
-# MQL5_Old
-
 ![example](im/b.PNG)
 
 Reasons don't work:
