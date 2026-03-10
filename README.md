@@ -26,9 +26,11 @@ EURUSD
 USDJPY
 ![example](im/example6.png)   
 
-# Value ~ Martingale (intrinsic value from DCF, etc)  
+# Value ~ Martingale (intrinsic value from [DCF](RBLX.xlsx), etc)  
 RBLX
-![example](im/example4.png)  
+![example](im/example4.png)    
+Rough DCF with optimistic assumptions   
+![dcf](im/rblx.png)  
 
 # Mean Reversion  
 AAPL
