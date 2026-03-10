@@ -29,8 +29,6 @@ USDJPY
 # Value ~ Martingale (intrinsic value from [DCF](RBLX.xlsx), etc)  
 RBLX
 ![example](im/example4.png)    
-Rough DCF with optimistic assumptions   
-![dcf](im/rblx.png)  
 
 # Mean Reversion  
 AAPL
