@@ -1,7 +1,7 @@
 ![example](im/b.PNG)
 
 Reasons don't work:
-- Based on technica analysis (TA) which probably isn't real (too simplistic -> crowded)
+- Based on technica analysis (TA) which probably isn't real (too simplistic, crowded, just noise)
 - Patterns not persistent and pervasive, regime changes, etc
 - Backtests don't accurately enough represent live conditions (slippage, fees)
 - Trading CFDs is just a bad idea (insane leverage, overnight spread, transaction costs, etc)
