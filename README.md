@@ -1,11 +1,11 @@
 ![example](im/b.PNG)
 
 Reasons might not work:
-- Based on technica analysis (too simplistic, crowded, just noise)
-- Patterns not persistent and pervasive, regime changes, etc
+- Based on technical analysis (too simplistic, crowded, just noise)
+- Patterns not persistent nor pervasive, regime changes, etc
 - Backtests don't accurately enough represent live conditions (slippage, fees)
 - Trading CFDs is just a bad idea (insane leverage, overnight spread, transaction costs, etc)
-- Overfitted and not robust despite attempts at out of sample testing and parsimonious parametrisation
+- Overfitted and not robust despite attempts at out-of-sample testing and parsimonious parametrisation
 - Argument could be made for heavy paramterisation where the increase in estimation accuracy and learning potential is worth the statistical cost assuming appropriate shrinkage (The Virtue of Complexity paper)
 
 Example of Overfitting
